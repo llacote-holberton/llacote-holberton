@@ -19,6 +19,7 @@
     ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
     ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
     ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
+- Certifications: [please consult the dedicated page](https://github.com/llacote-holberton/holbertonschool-france-certificates-ibm/blob/main/README.md)
 
 ## Who am I?
 Someone who has always been passionate about sharing knowledge/know-hows and learning how to improve efficiency, thus always gravitating towards Information Technologies with a favor for free software, both in personal life (Linux user since 2000 ;)) and professional one (>10 years working for free-software editor or consulting specialists).
