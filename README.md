@@ -11,14 +11,14 @@
 Someone who has always been passionate about sharing knowledge/know-hows and learning how to improve efficiency, thus always gravitating towards Information Technologies with a favor for free software, both in personal life (Linux user since 2000 ;)) and professional one (>10 years working for free-software editor or consulting specialists).
 
 ## What path do I follow?
-TL;DR: I underwent academic courses which were tangentially related to information technologies while learning sysadmin and development basics by myself. I took the opportunity to work for a French Free Software Editor to bootstrap a carreer anchored in the free software ecosystem while taking advantage of my muti-faceted profile to contribute in various way beyond the core tasks of webmastering or project management.
+TL;DR: I underwent academic courses which were tangentially related to information technologies while learning sysadmin and development basics by myself. I took the opportunity to work for a French Free Software Editor to bootstrap a career anchored in the free software ecosystem while taking advantage of my multi-faceted profile to contribute in various way beyond the core tasks of webmastering or project management.
 
 I am currently undergoing a Web Development training to consolidate and expand the technical know-hows I acquired in the field over the years and become a better Tech Lead and Project Manager.
 
-<details>Read more</details>
+<details><summary>Read more</summary>
 While I initially studied Law & Negociations, my path has always been rooted in Information Technologies, driven by both personal values and pragmatic benefit.  
 I also wanted to contribute to the expansion of free software in my own way, as this development paradigm has always been the one best fitting my own values and it was a way to give back in other ways than pure code contribution.  
-Which is why I naturally favored a French Free Sofware Editor to start my professional carreer, position in which all my skills eo were used concurrently to help that small company grow. From there, I found other opportunities in that ecosystem and evolved in it for most of my career. 
+Which is why I naturally favored a French Free Sofware Editor to start my professional career, position in which all my skills were used concurrently to help that small company grow. From there, I found other opportunities in that ecosystem and evolved in it for most of my career. 
 
 My core missions, in most of my positions, were therefore focused on promoting free software either directly (legal & marketing counselling for migration from proprietary to free, communication and training related to free-software products) or indirectly (deploying free software stacks, training end-users on free software based apps/websites, favoring free software whenever it makes sense). My personal culture and non-tech background were also applied regularly to help make decisions on related aspects (tech stack choice, legal constraints, migration pain points, internal/external trainings, change management). My role gradually expanded to encompass more of a project's lifecycle: identifying business needs and translating them into User Stories, defining roadmaps, monitoring planning, writing documentations...
 
@@ -29,18 +29,18 @@ The main exception was my work at French Ministry of Finances in which I was req
 
 Hence why I seized the chance of a time-limited mission ending to engage in a accelerated development training, in order to expand and consolidate everything I have acquired so far from occasional hands-on in the field or personal experimentations.
 My goal has two facets: first to become skilled enough to develop business-focused applications in full autonomy, so I can publish some small projects I have in mind since eons; contributing (I hope) to the ecosystem of useful free software apps. Second is to use those projects to build and expand my understanding of development hurdles, good practices and tooling, to be "harder better faster stronger" when acting as a Project Manager or Architect to provide analyses and directions.
-
+</details>
 
 ## What can I do for you?
 
 Based on my accumulated experiences, here are some areas in which I could provide a decisive contribution.
 
-- Setting up technological survey to never miss interesting innovations and accelerate stack definition for a given project.
-- Improve your architecture process (legal risks/audit, libraries evaluation) to anticipate and avoid problems or prepare a migration.
-- Improving delivery quality (continuous integration for performance/robustness audit, collaboration processes, bug management, documentation, end-user care) to increase user satisfaction and reduce time to delivery.
-- Improve your infrastructure / application resilience (simple cybersecurity and legal audit, setting up basic protection measures, educating tech and non-tech teams) to ensure a minimum level of security and better awareness of risk for everyone involved.
-- Planning/evaluating a strategic migration (challenges, risks, transition path, key candidates in free software ecosystem) to ensure a clearly identified return on investment and smooth transition.
-- Designing a new application (business needs, technical requirements, vertical & horizontal architecture, POCs) with processes keeping a serene communication and collaboration between all parties.
+- **Setting up technological survey** to never miss interesting innovations and accelerate stack definition for a given project.
+- **Improve your architecture process** (legal risks/audit, libraries evaluation) to anticipate and avoid problems or prepare a migration.
+- **Improving delivery quality** (continuous integration for performance/robustness audit, collaboration processes, bug management, documentation, end-user care) to increase user satisfaction and reduce time to delivery.
+- **Improve your infrastructure / application resilience** (cybersecurity and legal audit, setting up basic protection measures, educating tech and non-tech teams) to ensure a minimum level of security and better awareness of risk for everyone involved.
+- **Planning/evaluating a strategic migration** (challenges, risks, transition path, key candidates in free software ecosystem) to ensure a clearly identified return on investment and smooth transition.
+- **Designing a new application** (business needs, technical requirements, vertical & horizontal architecture, POCs) with processes keeping a serene communication and collaboration between all parties.
 
 ### Where would I probably not be the best profile (yet ;))
 I am confident I could ramp up my skill up to your requirements in most situations, given (enough) time.
